@@ -1,0 +1,40 @@
+HTTrack3.49-2 launched on Thu, 05 Jun 2025 16:34:48 at https://gridx.codelayers.net +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://gridx.codelayers.net -O "/Users/shreyanshgupta/websites/Final_Portfolio_2025" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:34:51	Warning: 	File not parsed, looks like binary: https://gridx.codelayers.net/robots.txt
+16:37:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://gridx.codelayers.net/blog-with-right-sidebar?format=feed&type=atom
+16:37:19	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://gridx.codelayers.net/blog-with-right-sidebar/analysis?format=feed&type=atom
+16:37:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://gridx.codelayers.net/blog-with-right-sidebar/firewall?format=feed&type=atom
+16:37:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://gridx.codelayers.net/blog-with-right-sidebar/it-solutions?format=feed&type=atom
+16:37:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://gridx.codelayers.net/blog-with-right-sidebar/security?format=feed&type=atom
+16:37:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://gridx.codelayers.net/tags-page-2/development?format=feed&type=atom
+16:37:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://gridx.codelayers.net/tags-page-2/saas?format=feed&type=atom
+16:37:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://gridx.codelayers.net/blog-with-right-sidebar/technology?format=feed&type=atom
+16:37:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://gridx.codelayers.net/tags-page-2/figma?format=feed&type=atom
+16:37:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://gridx.codelayers.net/tags-page-2/ui-ux?format=feed&type=atom
+16:37:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://gridx.codelayers.net/tags-page-2/joomla?format=feed&type=atom
+16:37:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://gridx.codelayers.net/tags-page-2/java?format=feed&type=atom
+16:37:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://gridx.codelayers.net/tags-page-2?format=feed&type=atom
+16:37:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://gridx.codelayers.net/blog-with-right-sidebar-2?format=feed&type=atom
+16:37:32	Warning: 	HTML file (48795 bytes) retransferred due to lack of cache: https://gridx.codelayers.net/blog-with-right-sidebar/consulted-admitting-is-power-acuteness
+16:37:33	Warning: 	HTML file (48827 bytes) retransferred due to lack of cache: https://gridx.codelayers.net/blog-with-right-sidebar/unsatiable-entreaties-may-collecting-power
+16:37:34	Warning: 	HTML file (48865 bytes) retransferred due to lack of cache: https://gridx.codelayers.net/blog-with-right-sidebar/discovery-incommode-earnestly-no-he-commanded
+16:37:36	Warning: 	HTML file (48795 bytes) retransferred due to lack of cache: https://gridx.codelayers.net/blog-with-right-sidebar/consulted-admitting-is-power-acuteness-4
+16:37:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://gridx.codelayers.net/blog-with-right-sidebar/analysis?format=feed&type=rss
+16:37:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://gridx.codelayers.net/blog-with-right-sidebar/firewall?format=feed&type=rss
+16:37:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://gridx.codelayers.net/blog-with-right-sidebar/it-solutions?format=feed&type=rss
+16:37:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://gridx.codelayers.net/blog-with-right-sidebar/security?format=feed&type=rss
+16:37:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://gridx.codelayers.net/blog-with-right-sidebar/technology?format=feed&type=rss
+16:37:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://gridx.codelayers.net/tags-page-2/saas?format=feed&type=rss
+16:37:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://gridx.codelayers.net/tags-page-2/figma?format=feed&type=rss
+16:37:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://gridx.codelayers.net/tags-page-2/java?format=feed&type=rss
+16:37:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://gridx.codelayers.net/tags-page-2/ui-ux?format=feed&type=rss
+16:37:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://gridx.codelayers.net/tags-page-2/joomla?format=feed&type=rss
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 0 seconds : 138 links scanned, 165 files written (8127331 bytes overall) [4346323 bytes received at 24146 bytes/sec], 5820326 bytes transferred using HTTP compression in 111 files, ratio 13%, 10.0 requests per connection
+(No errors, 29 warnings, 0 messages)
