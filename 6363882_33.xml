@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+	<loc>https://shreygupta.vercel.app/</loc>
+	<lastmod>2025-06-08T23:45:12+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://shreygupta.vercel.app/Images-folder-projects/699C8424-8149-491A-8118-B61CFD7CA62B_4_5005_c.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://shreygupta.vercel.app/images/me.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://shreygupta.vercel.app/images/icon.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://shreygupta.vercel.app/images/star1.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://shreygupta.vercel.app/images/sign.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://shreygupta.vercel.app/images/my-works.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://shreygupta.vercel.app/images/icon2.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://shreygupta.vercel.app/Images-folder-projects/8310D8BF-D2AE-47E3-90F7-2F5555FD48C8_4_5005_c.jpeg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://shreygupta.vercel.app/index.html</loc>
+	<lastmod>2025-06-08T23:45:12+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://shreygupta.vercel.app/about.html</loc>
+	<lastmod>2025-06-08T23:45:12+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://shreygupta.vercel.app/images/me2.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://shreygupta.vercel.app/images/star-2.png</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://shreygupta.vercel.app/works.html</loc>
+	<lastmod>2025-06-08T23:45:12+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://shreygupta.vercel.app/Images-folder-projects/Edulytics-thumbnail.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://shreygupta.vercel.app/Images-folder-projects/Facebyshrey.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://shreygupta.vercel.app/Images-folder-projects/indian+environmental+dashboard.png</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://shreygupta.vercel.app/contact.html</loc>
+	<lastmod>2025-06-08T23:45:12+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://shreygupta.vercel.app/credentials.html</loc>
+	<lastmod>2025-06-08T23:45:12+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://shreygupta.vercel.app/service.html</loc>
+	<lastmod>2025-06-08T23:45:12+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+</urlset>
