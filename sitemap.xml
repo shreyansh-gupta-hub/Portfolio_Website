@@ -3,7 +3,7 @@
 		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
 	<loc>https://shreygupta.netlify.app/</loc>
-	<lastmod>2025-06-09T00:04:37+01:00</lastmod>
+	<lastmod>2025-06-16T07:52:14+01:00</lastmod>
 	<priority>1.0</priority>
 	<image:image>
 			<image:loc>https://shreygupta.netlify.app/Images-folder-projects/699C8424-8149-491A-8118-B61CFD7CA62B_4_5005_c.jpeg</image:loc>
@@ -32,7 +32,7 @@
 </url>
 <url>
 	<loc>https://shreygupta.netlify.app/about</loc>
-	<lastmod>2025-06-09T00:04:37+01:00</lastmod>
+	<lastmod>2025-06-16T07:52:14+01:00</lastmod>
 	<priority>1.0</priority>
 	<image:image>
 			<image:loc>https://shreygupta.netlify.app/images/me2.png</image:loc>
@@ -43,7 +43,7 @@
 </url>
 <url>
 	<loc>https://shreygupta.netlify.app/works</loc>
-	<lastmod>2025-06-09T00:04:37+01:00</lastmod>
+	<lastmod>2025-06-16T07:52:14+01:00</lastmod>
 	<priority>1.0</priority>
 	<image:image>
 			<image:loc>https://shreygupta.netlify.app/Images-folder-projects/Edulytics-thumbnail.jpg</image:loc>
@@ -57,12 +57,12 @@
 </url>
 <url>
 	<loc>https://shreygupta.netlify.app/contact</loc>
-	<lastmod>2025-06-09T00:04:37+01:00</lastmod>
+	<lastmod>2025-06-16T07:52:14+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
 	<loc>https://shreygupta.netlify.app/credentials</loc>
-	<lastmod>2025-06-09T00:04:37+01:00</lastmod>
+	<lastmod>2025-06-16T07:52:14+01:00</lastmod>
 	<priority>1.0</priority>
 	<image:image>
 			<image:loc>https://shreygupta.netlify.app/images/me.png</image:loc>
@@ -70,7 +70,7 @@
 </url>
 <url>
 	<loc>https://shreygupta.netlify.app/service</loc>
-	<lastmod>2025-06-09T00:04:37+01:00</lastmod>
+	<lastmod>2025-06-16T07:52:14+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 </urlset>
